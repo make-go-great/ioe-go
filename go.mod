@@ -1,3 +1,3 @@
-module github.com/haunt98/io-go
+module github.com/haunt98/ioe-go
 
 go 1.16
