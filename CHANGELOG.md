@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v0.4.0 (2022-02-07)
+
+### Added
+
+- feat: allow empty string (2022-02-07)
+
+### Others
+
+- chore: bump year license (2022-02-07)
+
+- chore: add example (2022-02-07)
+
+- chore(changelog): generate v0.3.0 (2021-12-02)
+
 ## v0.3.0 (2021-12-02)
 
 ### Others
