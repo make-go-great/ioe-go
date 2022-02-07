@@ -22,3 +22,16 @@ func ReadInput() string {
 
 	return ""
 }
+
+// Allow empty
+func ReadInputEmpty() string {
+	bs := bufio.NewScanner(os.Stdin)
+	for bs.Scan() {
+		line := bs.Text()
+		line = strings.TrimSpace(line)
+
+		return line
+	}
+
+	return ""
+}
